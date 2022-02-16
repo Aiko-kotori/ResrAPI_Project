@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+	color: white;
+	background-color: #103327;
+}
+table, tbody, td, th {
+	/*border-color: white;*/
+	background-color: #eee8aa;
+	color: black;
+}
+table {
+	margin: auto;
+}
+.top_icon {
+	position: absolute;
+	left: 30px;
+	margin: 30px;
+}
+.message_margin {
+	margin: 30px;
+}
+.error {
+	color: red;
+}
+.success {
+	color: #32cd32;
+}
+.btm_margin {
+	margin: 30px;
+}
