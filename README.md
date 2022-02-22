@@ -21,7 +21,7 @@ And also have to create "Contents" table (=collection) in the subjectdb from Cre
 jdk-16.0.1 (or jdk-16.0.1\bin), 
 apache-tomcat-8.5.69, 
 mongodb-database-tools-windows-x86_64-100.5.2\bin, 
-\MongoCOM_1.1.1.0_x64, 
+MongoCOM_1.1.1.0_x64, 
 MongoDB\Server\5.0\bin, 
 The name of the folder that contains the following three, 
 ・mongo-java-driver-3.5.0.jar, 
