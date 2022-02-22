@@ -1,4 +1,4 @@
-# ResrAPI_Project
+# RestAPI_Project
 [Tools]
 MongoDB 5.0.6
 eclipse pleiades
